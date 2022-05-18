@@ -4,6 +4,9 @@
   }
 
   body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqaO_PcflKcQ0di3Yc_b4yJw4P7DUhecv3QA&usqp=CAU);
+    background-size: cover;
+    background-position: center;
     font-family: "Heebo", sans-serif;
   }
 
@@ -31,7 +34,7 @@
   }
 
   .banner {
-    height: 80vh;
+    height: 45vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -66,7 +69,7 @@
   }
 
   .section-works {
-    max-width: 800px;
+    max-width: 600px;
     margin: auto;
   }
 
