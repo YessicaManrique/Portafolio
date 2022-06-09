@@ -77,6 +77,10 @@
     display: flex;
   }
 
+  .card1 {
+    display:flex;
+  }
+
   .card div img {
     width: 246px;
     height: 180px;
